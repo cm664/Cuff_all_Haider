@@ -1,4 +1,3 @@
-# Cuff_all_Haider
 local Players = game:GetService("Players")
 local LocalPlayer = Players.LocalPlayer
 local Active = false
